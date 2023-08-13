@@ -1,2 +1,2 @@
 # Data Analytics
- Análise de dados, gráficos e dashboards
+ Projetos analíticos - dados, gráficos e dashboards
